@@ -1,0 +1,19 @@
+{
+    "nome": "LED",
+    "version": "1.0.0",
+    "descripition": "Biblioteca para controle nao bloquente de LED com suporte a ligar, desligar, alternar, temporizacao e piscadas.",
+    "keywords": [
+        "led",
+        "arduino",
+        "esp32",
+        "non-blocking"
+    ],
+    "authors": [
+        {
+            "nome": "Pedro Leonel de Lorena"
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*",
+    "header": "LED.h"
+}
